@@ -1,0 +1,18 @@
+.active {
+  color: #908a8a;
+  text-decoration: none;
+  /* border: 1px solid red; */
+  background-color: white;
+}
+.inactive {
+  color: rgb(193, 188, 188);
+  text-decoration: none;
+  /* border: 1px solid red; */
+  background-color: white;
+}
+.inactive:hover{
+  text-decoration: none;
+}
+.active:hover{
+  text-decoration: none;
+}

@@ -1,0 +1,3 @@
+.top div:not(.middle) {
+  background-color: #a58a8a !important;
+}
