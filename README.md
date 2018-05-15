@@ -1,6 +1,7 @@
 # siDemo（简称小四）
 
 自己搭建的一个react脚手架，用到了react v4，react-router v4， webpack v4， webpack devServer
+## demo 演示地址: http://47.94.131.226:8080/dist/
 ## 开始：
 ### 开发工具： atom
 ### 环境搭建 node.js 下载地址https://nodejs.org/en/ 最新版本即可， 默认安装一路next
